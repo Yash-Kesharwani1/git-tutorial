@@ -10,3 +10,8 @@ Adding fifth line to file1
 bug of file1 has been fixed. at 5th line.
 
 second bug of file1 has been fixed
+
+some extra bug is going to fix by this line.
+some more extra bug is going to fix by this line. in branch extra-fix
+
+extra large bug-fixed.
