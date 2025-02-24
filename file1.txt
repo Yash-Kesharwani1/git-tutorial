@@ -1,3 +1,7 @@
 This is the file1.txt
 
 Adding second line to file1.txt
+
+Adding third line to file1.txt for third commit in file1.txt
+
+Adding fourth line to file1.txt
