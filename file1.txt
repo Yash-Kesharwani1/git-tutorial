@@ -3,3 +3,5 @@ This is the file1.txt
 Adding second line to file1.txt
 
 bug of file1 has been fixed. at 5th line.
+
+second bug of file1 has been fixed
